@@ -28,7 +28,23 @@
 
 // console.log(result);
 
-//map??
+//map
+
+let userList = [
+    {name : "Mike", age : 30},
+    { name : "Jone", age : 27},
+    { name : "Tom", age : 13},
+];
+
+let newUserList = userList.map((user, index) => {
+    return Object.assign({}, user, {
+        id : index + 1,
+        isAdult : user.age > 19,
+    });
+});
+
+console.log(newUserList);
+console.log(userList);
 
 //join - 배열을 합쳐서 문자열 만들기
 
