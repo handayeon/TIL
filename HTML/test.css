@@ -1,0 +1,41 @@
+.cute{
+    color : green;
+    font-weight: bolder;
+    font-family: 배달의민족 도현;
+    font-size: 25px;
+}
+.cute_1{
+    color : green;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.profile td{
+    
+    font-weight : 400;
+    font-family: 배달의민족 도현;
+    font-size: 14px;
+}
+
+.div_first {
+    width: 600px;
+}
+
+.div_second {
+    width: 220px;
+}
+
+
+.div_third {
+    width: 300px;
+}
+
+.div_all {
+    width: 1800px;
+    display: inline-flex;
+}
+
+.tb td {
+    border:1px solid black;
+    text-align: center;
+}
