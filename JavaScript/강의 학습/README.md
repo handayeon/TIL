@@ -12,3 +12,6 @@ https://www.notion.so/Lesson-4-2461374e73704e8ab0a1a541e4cc4bfc
 
 ## Lesson5
 https://www.notion.so/Lesson-5-f94fd7db240248a9b21eec47b14e192c 
+
+## Lesson6
+https://www.notion.so/Lesson-6-89d08d416e0849dda443ce7df6267cb7 
