@@ -18,3 +18,6 @@ https://www.notion.so/Lesson-6-89d08d416e0849dda443ce7df6267cb7
 
 ## Lesson7
 https://www.notion.so/Lesson-7-64f3090a2d3a4a078fd9bd1d399f1b2c?pvs=4
+
+## Lesson8
+https://www.notion.so/Lesson-8-9fa285b852e34cd69f363da5b549cdb0?pvs=4
