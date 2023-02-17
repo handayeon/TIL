@@ -31,3 +31,6 @@ https://www.notion.so/Lesson-10-c46ff0e71c494a18ab1d21da6719b87e?pvs=4
 
 ## Lesson11
 https://www.notion.so/Lesson-11-b29999b420f44c8eb4399f78bf716c7f?pvs=4 
+
+## Lesson12
+https://www.notion.so/Lesson-12-eec03cac496445f0bbb62bb88ed2cd6b?pvs=4
