@@ -43,3 +43,6 @@ https://www.notion.so/Lesson-14-2756c614a75a4481b2a8ff41c6da84ca?pvs=4
 
 ## Lesson15
 https://www.notion.so/Lesson-15-99d92a8d6bb34a38ad854c88dcf82446?pvs=4 
+
+## Lesson16
+https://www.notion.so/Lesson-16-5470aa7ce7d4494fbfb26950d16063fa?pvs=4
