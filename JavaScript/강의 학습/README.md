@@ -46,3 +46,6 @@ https://www.notion.so/Lesson-15-99d92a8d6bb34a38ad854c88dcf82446?pvs=4
 
 ## Lesson16
 https://www.notion.so/Lesson-16-5470aa7ce7d4494fbfb26950d16063fa?pvs=4
+
+## Lesson17
+https://www.notion.so/Lesson-17-743379b3fb724b8ebae27450e75a88e1?pvs=4 
