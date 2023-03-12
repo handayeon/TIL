@@ -55,3 +55,6 @@ https://www.notion.so/Lesson-18-cfc450134917401e9382412451444a7e?pvs=4
 
 ## Lesson19
 https://www.notion.so/Lesson-19-683bd1882a134ccbbe4f8ff4b5ba82f3?pvs=4
+
+## Lesson20
+https://www.notion.so/Lesson-20-479b633de20d4f36a14cc555f058eea9?pvs=4
