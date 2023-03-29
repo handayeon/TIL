@@ -64,3 +64,6 @@ https://www.notion.so/Lesson-21-82f4441678b84d5cb2ab7e277f922c52?pvs=4
 
 ## Lesson22
 https://www.notion.so/Lesson-22-f6d6629c4f29415f90d923e2f200ab15?pvs=4
+
+## Lesson23
+https://www.notion.so/Lesson-23-a944e8db20844cc1b3e7fd60c2128b66?pvs=4
